@@ -1,0 +1,5 @@
+now do JSON for the input:{elementInput} and the chosen category:{category}
+make sure to have the image idea relating to the chemical element and the category chosen 
+
+Start with {
+just go:
